@@ -1,4 +1,4 @@
-# Azure Data Engineer | Data Analyst
+# Data Engineer | Data Analyst
 
 #### Technical Skills: Python, SQL, Azure, Databricks, Synapse, Power BI, Tableau, scikit-learn, Pandas, NumPy, OpenCV
 
