@@ -13,7 +13,7 @@ layout: default
   <div class="hero-inner">
     <div>
       <div class="hero-tag">Open to new opportunities</div>
-      <h1>Hi, I'm Prasanthi —<br>a <em>Data Engineer</em><br>& Analyst</h1>
+      <h1>Hi, I'm Prasanthi —<br>a <em>Data Engineer</em></h1>
       <p class="hero-desc">
         I turn messy, complex data into clean pipelines and clear insights.
         Based in New York, specialising in Azure, SQL, Python, and BI tools.
